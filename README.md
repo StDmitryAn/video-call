@@ -31,8 +31,8 @@ Follow these instructions to set up and run the project on your local machine.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/StDmitryAn/video-call.git
+cd video-call
 ```
 
 ### 2. Install Dependencies
