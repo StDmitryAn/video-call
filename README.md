@@ -1,4 +1,4 @@
-# Simple 1-on-1 Video Chat Application
+# Video Chat Application
 
 This is a simple web application that allows two users to have a video chat and text messaging session. It utilizes WebRTC for peer-to-peer video communication and WebSockets for signaling and chat messages.
 
